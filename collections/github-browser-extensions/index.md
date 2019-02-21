@@ -1,6 +1,7 @@
 ---
 items:
  - ovity/octotree
+ - friendly-robot/github-highlights
  - mike-north/chrome-github-boxcutter
  - muan/github-dashboard
  - muan/github-gmail
